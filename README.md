@@ -26,8 +26,9 @@ Stock level predictors are essential tools for businesses and industries that de
 - Pie-chart representation of data set is given below
   ![image](https://github.com/Bisal-hub/stock-level-predictor/assets/134628968/ee34003b-ac46-4902-b1b5-b16d3ee52ba4)
   
-- We achieved 50% accuracy in predicting the stock levels with help of given amount of sample data .More data samples will be required to achieve greater accuracy.
+- We achieved 50% accuracy in predicting the stock levels with help of given amount of sample data.More data samples will be required to achieve greater accuracy.
 ![image](https://github.com/Bisal-hub/stock-level-predictor/assets/134628968/52803a91-ba3c-4b39-833c-a6cd35e947ea)
+<img src="https://github.com/Bisal-hub/stock-level-predictor/assets/134628968/52803a91-ba3c-4b39-833c-a6cd35e947ea" alt="Image Description" width="300" height="200">
 
 
 
