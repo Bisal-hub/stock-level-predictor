@@ -1,4 +1,4 @@
-# Project: stock-level-predictor 
+# Project: stock-level-predictor - COGNIZANT
 
 This repository contains the code to the short-term project for the Virtual Experience Program at Cozigant.
 
